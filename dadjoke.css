@@ -1,0 +1,15 @@
+body{
+    background-color: skyblue;
+    color: brown;
+    display: inline-block;
+    justify-content: center;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    line-height: 1.5em;
+}
+button{
+    margin-left: 20%;
+    height: 40px;
+}
